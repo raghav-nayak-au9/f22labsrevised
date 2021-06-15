@@ -111,7 +111,7 @@ const Register = ({ history }) => {
       </div>
 
       <div className="row grid">
-        <div className="col-12 col-sm-12 col-md-8 col-lg-4">
+        <div className="col-12 col-sm-12 col-md-12 col-lg-12">
           <form
             className="rectangle1"
             onSubmit={submitHandler}
